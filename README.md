@@ -4,8 +4,11 @@ This repository contains my regression models trained to calculate expected Hous
 
 To find the best fitted model I used: 
 - Decision Tree Regression
+- Bagging
+- Boosting
 - GridSearchCV
 - Random Forest Regression
-- Least Square Method
-- Lasso Method
+- Least Square Regression
+- Lasso Regression
+- Rigde Regression
 
